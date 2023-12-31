@@ -6,34 +6,39 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyperspace
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Hyperspace theme by HTML5 UP.
-baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: Ethan K. Gordon
+email: contact@ethankgordon.com
+url: https://ethankgordon.com/
+tagline: PhD, Roboticist, Research Scientist
+description: A Postdoctoral Researcher working on Dexterous Manipulation and Assistive Robotics
 
 # Social settings
-500px_url: 
-facebook_url: https://facebook.com
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url: 
-slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+facebook_url: https://facebook.com/ekgekg
+github_url: https://github.com/egordon
+linkedin_url: https://www.linkedin.com/in/ekgordon
+scholar_url: https://scholar.google.com/citations?user=hfmi3QwAAAAJ
+twitter_url: https://twitter.com/EKGRobots
 
 # Build settings
 markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
-# Add one or more of the following
-facebook:
-  app_id: 
-  publisher: 
-  admins: 
-logo:
-google_site_verification: 
+  username: EKGRobots
+  card: summary
+logo: /images/robotic-arm.png
+google_site_verification: alBrUFT9qPPAhLs69YkDiBtNtd640vl53IAbrqe9KYk
+social:
+  name: Ethan K. Gordon
+  links:
+    - https://github.com/egordon
+    - https://facebook.com/ekgekg
+    - https://twitter.com/EKGRobots
+    - https://www.linkedin.com/in/ekgordon
+
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  pubs:
+    output: true

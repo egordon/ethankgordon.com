@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+{% include head.html %}
+<body>
+
+<!-- Header -->
+<header id="header">
+	<a href="/" class="title">Ethan K. Gordon</a>
+	<nav>
+		<ul>
+			<li><a href="/#intro">Home</a></li>
+			<li><a href="/#pubs" class="active">Research</a></li>
+		</ul>
+	</nav>
+</header>
+
+
+<!-- Content -->
+<div id="wrapper">
+	<section id="main" class="wrapper">
+		<div class="inner">
+			<h2 class="major">{{ page.title }}</h2>
+			<div class="row uniform">
+	            <div class="4u 6u(medium) 12u$(small)">
+	                <span class="image fit"><img src="{{ page.image }}" alt="{{ page.title }}" /></span>
+	                <ul class="actions vertical">
+	                    {% if page.pdf %}<li><a href="{{ page.pdf }}" class="button icon fit fa-file-pdf">Paper</a></li>{% endif %}
+	                    {% if page.video %}<li><a href="{{ page.video }}" class="button icon fit fa-video">Video</a></li>{% endif %}
+	                    {% if page.web %}<li><a href="{{ page.web }}" class="button icon fit fa-link">Website</a></li>{% endif %}
+	                </ul>
+	            </div>
+	            <div class="8u$ 6u$(medium) 12u$(small)">
+	                <p>
+	                    {{ page.abstract }}
+	                </p>
+	            </div>
+	        </div>
+			<hr />
+			{{ content }}
+		</div>
+	</section>
+</div>
+
+{% include footer.html %}
+</body>
+</html>

@@ -1,98 +1,113 @@
 ---
 layout: default
-title: Hyperspace by HTML5 UP
 ---
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
-	<div class="inner">
-		<h1>Hyperspace</h1>
-		<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
-		<ul class="actions">
-			<li><a href="#one" class="button scrolly">Learn more</a></li>
-		</ul>
-	</div>
+    <div class="inner">
+        <h1>Ethan K. Gordon</h1>
+        <div class="row uniform">
+            <div class="4u 6u(medium) 12u$(small)">
+                <span class="image fit"><img src="images/me.png" alt="Ethan Headshot" /></span>
+                <ul class="actions vertical">
+                    <li><a href="/static/CV.pdf" class="button icon fa-save fit">CV</a></li>
+                    <li><a href="{{ site.scholar_url }}" class="button icon fa-google-scholar fit">Scholar</a></li>
+                    <li><a href="#" class="button icon fa-envelope disabled fit" style="opacity: 1;">ethan@ethan<b style="display:none;">harvester obfuscation</b>kgordon.com</a></li>
+                </ul>
+                <ul class="icons">
+                    <li><a href="{{ site.github_url }}"><span class="icon major fa-github"></span><span class="label">GitHub</span></a></li>
+                    <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
+                    <li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>
+                    <li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>
+                </ul>
+            </div>
+            <div class="8u$ 6u$(medium) 12u$(small)">
+                <p>
+                    I will be a Postdoctoral Researcher at the
+                    <a href="https://www.grasp.upenn.edu/">University of Pennsylvania (GRASP)</a> advised by <a href="https://dair.seas.upenn.edu/posa/">Michael Posa</a> in the DAIR Lab. In collaboration with the <a href="https://theaiinstitute.com/">Boston Dynamic AI Institute</a>, we will be developing online learning algorithms for adaptable dexterous manipulation.
+                </p>
+                <p>
+                    In 2023, I completed my PhD in the <a href="https://personalrobotics.cs.washington.edu/">Personal Robotics Lab</a> at the University of Washington, where I was advised by <a href="https://goodrobot.ai/">Siddhartha Srinivasa</a> and collaborated with <a href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a>. My dissertation involved developing online learning algorithms for tractably adaptable food manipulation with the primary application of <a href="https://robotfeeding.io">robot-assisted feeding for those with mobility impairments</a>. Previously, I received my BSE from Princeton University, where I studied neuromorphic silicon photonics with <a href="https://prucnal.princeton.edu/">Paul Prucnal</a>.
+                </p>
+                <p>
+                    I have also had the pleasure to work on <a href="https://www.meta.com/blog/quest/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work/">varifocal VR headsets</a> at Meta (Oculus VR). In my spare time, I enjoy skiing, singing a cappella, and D&amp;D.
+                </p>
+            </div>
+        </div>
+    </div>
 </section>
 
 <!-- One -->
-<section id="one" class="wrapper style2 spotlights">
-	<section>
-		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
-		<div class="content">
-			<div class="inner">
-				<h2>Sed ipsum dolor</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
-		<div class="content">
-			<div class="inner">
-				<h2>Feugiat consequat</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
-		<div class="content">
-			<div class="inner">
-				<h2>Ultricies aliquam</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
-				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+<section id="news" class="wrapper style2 spotlights">
+    <div class="inner">
+        <h2>What's New?</h2>
+        <div class="table-wrapper">
+            <table>
+                <tbody>
+                    <tr>
+                        <th>Apr 2024</th>
+                        <td>Starting at Michael Posa's DAIR Lab at UPenn!</td>
+                    </tr>
+                    <tr>
+                        <th>Mar 2024</th>
+                        <td>Running the <a href="https://hripioneers.org">HRI Pioneers Workshop</a> at the HRI 2024, Boulder, CO </td>
+                    </tr>
+                    <tr>
+                        <th>Dec 2023</th>
+                        <td>Defended my dissertation and received my PhD from UW!</td>
+                    </tr>
+                    <tr>
+                        <th>Nov 2023</th>
+                        <td>Presented at CoRL 2023, Atlanta, GA</td>
+                    </tr>
+                    <tr>
+                        <th>Nov 2023</th>
+                        <td>The Assistive Dexterous Arm (ADA) Feeding Demo is awarded the People's Choice Prize at UW Demo Day</td>
+                    </tr>
+                    <tr>
+                        <th>Jun 2023</th>
+                        <td>Awarded Best Poster at the <a href="https://sites.google.com/unisi.it/workshop-manipulation">Workshop on Assistive Manipulation</a> at ICRA 2023, London, UK</td>
+                    </tr>
+                    <tr>
+                        <th>Mar 2023</th>
+                        <td>Awarded Best Design Paper at <a href="https://humanrobotinteraction.org/2023/awards/">HRI 2023</a>, Stockholm, SE</td>
+                    </tr>
+                    <tr>
+                        <th>Jan 2023</th>
+                        <td>Accepted as an <a href="https://hripioneers.org/archives/hri23/participants/">HRI 2023 Pioneer</a>, Stockholm, SE</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 </section>
 
 <!-- Two -->
-<section id="two" class="wrapper style3 fade-up">
-	<div class="inner">
-		<h2>What we do</h2>
-		<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
-		<div class="features">
-			<section>
-				<span class="icon major fa-code"></span>
-				<h3>Lorem ipsum amet</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-lock"></span>
-				<h3>Aliquam sed nullam</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-cog"></span>
-				<h3>Sed erat ullam corper</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-desktop"></span>
-				<h3>Veroeros quis lorem</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-chain"></span>
-				<h3>Urna quis bibendum</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-			<section>
-				<span class="icon major fa-diamond"></span>
-				<h3>Aliquam urna dapibus</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-			</section>
-		</div>
-		<ul class="actions">
-			<li><a href="#" class="button">Learn more</a></li>
-		</ul>
-	</div>
+<section id="pubs" class="wrapper style3 fade-up">
+    <div class="inner">
+        <h2>Research</h2>
+        <p>Robotic manipulation can advance the human condition in so many ways: from physical assistance for those with mobility impairments to construction tasks in dangerous environments to the fine grain motions of surgery. All of these tasks require the robot to adapt to previously-unseen and uncertain environments. Just as humans continuously build and refine our understanding of this world over time, a robot should be able to treat every second of deployment as a learning opportunity. My goal is to understand how to capitalize on these opportunities to make contact-rich dexterous manipulation as intuitive to robots as to people.</p>
+        <h3>Select Publications</h3>
+        <hr />
+        {% for pub in site.pubs reversed %}
+            <div class="row uniform">
+            <div class="4u 6u(medium) 12u$(small)">
+                <span class="image fit"><img src="{{ pub.image }}" alt="{{ pub.title }}" /></span>
+            </div>
+            <div class="8u$ 6u$(medium) 12u$(small)">
+                <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
+                <p>
+                    {{ pub.authors }}<br />
+                    <i>{{ pub.conf }} {{ pub.year }}{% if pub.loc %}, {{ pub.loc }}{% endif %}</i>
+                    {% if pub.award %}<br /><b>{{ pub.award }}</b> {% endif %}
+                </p>
+                <ul class="actions">
+                    {% if pub.pdf %}<li><a href="{{ pub.pdf }}" class="button icon fa-file-pdf">Paper</a></li>{% endif %}
+                    {% if pub.video %}<li><a href="{{ pub.video }}" class="button icon fa-video">Video</a></li>{% endif %}
+                    {% if pub.web %}<li><a href="{{ pub.web }}" class="button icon fa-link">Website</a></li>{% endif %}
+                </ul>
+            </div>
+            </div>
+            <hr />
+        {% endfor %}
+    </div>
 </section>
