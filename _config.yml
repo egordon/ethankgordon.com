@@ -7,12 +7,13 @@
 
 # Site settings
 title: Ethan K. Gordon
-email: contact@ethankgordon.com
+email: ethan@ethankgordon.com
 url: https://ethankgordon.com
 tagline: PhD, Roboticist, Research Scientist
 description: A Postdoctoral Researcher working on Dexterous Manipulation and Assistive Robotics
 
 # Social settings
+bsky_url: https://bsky.app/profile/ethankgordon.com
 facebook_url: https://facebook.com/ekgekg
 github_url: https://github.com/egordon
 linkedin_url: https://www.linkedin.com/in/ekgordon

@@ -11,11 +11,32 @@ layout: default
                 <ul class="actions vertical">
                     <li><a href="/static/CV.pdf" class="button icon fa-save fit">CV</a></li>
                     <li><a href="{{ site.scholar_url }}" class="button icon fa-google-scholar fit">Scholar</a></li>
-                    <li><a href="#" class="button icon fa-envelope disabled fit" style="opacity: 1;">ethan@ethan<b style="display:none;">harvester obfuscation</b>kgordon.com</a></li>
+                    <li class="tooltip"><a class="button icon fa-envelope fit" onclick="copyEmail()" onmouseout="resetTooltip()"><span class="tooltiptext" id="myTooltip">Copy</span><span id="email">ethan@ethan<b>harvester obfuscation</b>kgordon.com</span></a></li>
+                    <!-- See https://spencermortensen.com/articles/email-obfuscation/#text-display -->
                 </ul>
+                <!-- Copy Email Script -->
+                <script>
+                    function copyEmail() {
+                        // Get the text field
+                        var copyText = document.getElementById("email").innerText.toLowerCase();
+
+                        // Copy the text inside the text field
+                        navigator.clipboard.writeText(copyText);
+
+                        // Alert copied text
+                        var tooltip = document.getElementById("myTooltip");
+                        tooltip.innerHTML = "Copied!";
+                    }
+
+                    function resetTooltip() {
+                        var tooltip = document.getElementById("myTooltip");
+                        tooltip.innerHTML = "Copy";
+                    }
+                </script>
                 <ul class="icons">
                     <li><a href="{{ site.github_url }}"><span class="icon major fa-github"></span><span class="label">GitHub</span></a></li>
                     <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
+                    <li><a href="{{ site.bsky_url }}"><span class="icon major icon-bsky"></span><span class="label">Bluesky</span></a></li>
                     <li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>
                     <li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>
                 </ul>
