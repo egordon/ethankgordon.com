@@ -38,7 +38,7 @@ layout: default
                     <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
                     <li><a href="{{ site.bsky_url }}"><span class="icon major icon-bsky"></span><span class="label">Bluesky</span></a></li>
                     <li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>
-                    <li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>
+                    <!--<li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>-->
                 </ul>
             </div>
             <div class="8u$ 6u$(medium) 12u$(small)">
@@ -70,7 +70,11 @@ layout: default
                     </tr>
                     <tr>
                         <th>Mar 2024</th>
-                        <td>Running the <a href="https://hripioneers.org">HRI Pioneers Workshop</a> at the HRI 2024, Boulder, CO </td>
+                        <td><a href="https://personalrobotics.cs.washington.edu/publications/gordonjenamaninanavati2024demo.pdf">Officially demo-ing ADA</a> at HRI 2024, Boulder, CO </td>
+                    </tr>
+                    <tr>
+                        <th>Mar 2024</th>
+                        <td>Running the <a href="https://hripioneers.org">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
                     </tr>
                     <tr>
                         <th>Dec 2023</th>
