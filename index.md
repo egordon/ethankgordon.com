@@ -69,8 +69,12 @@ layout: default
                         <td>Starting at Michael Posa's DAIR Lab at UPenn!</td>
                     </tr>
                     <tr>
+                        <th>Apr 2024</th>
+                        <td>Selected for the <a href="https://www.washington.edu/husky100/">2024 Husky 100!</a></td>
+                    </tr>
+                    <tr>
                         <th>Mar 2024</th>
-                        <td><a href="https://personalrobotics.cs.washington.edu/publications/gordonjenamaninanavati2024demo.pdf">Officially demo-ing ADA</a> at HRI 2024, Boulder, CO </td>
+                        <td><a href="https://programs.sigchi.org/hri/2024/awards/best-demos">Best Demonstration Award</a> at HRI 2024, Boulder, CO </td>
                     </tr>
                     <tr>
                         <th>Mar 2024</th>
