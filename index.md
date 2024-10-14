@@ -37,7 +37,7 @@ layout: default
                     <li><a href="{{ site.github_url }}"><span class="icon major fa-github"></span><span class="label">GitHub</span></a></li>
                     <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
                     <li><a href="{{ site.bsky_url }}"><span class="icon major icon-bsky"></span><span class="label">Bluesky</span></a></li>
-                    <li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>
+                    <!--<li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>-->
                     <!--<li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>-->
                 </ul>
             </div>
