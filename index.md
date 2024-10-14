@@ -43,14 +43,14 @@ layout: default
             </div>
             <div class="8u$ 6u$(medium) 12u$(small)">
                 <p>
-                    I will be a Postdoctoral Researcher at the
-                    <a href="https://www.grasp.upenn.edu/">University of Pennsylvania (GRASP)</a> advised by <a href="https://dair.seas.upenn.edu/posa/">Michael Posa</a> in the DAIR Lab. In collaboration with the <a href="https://theaiinstitute.com/">Boston Dynamic AI Institute</a>, we will be developing online learning algorithms for adaptable dexterous manipulation.
+                    I am a Postdoctoral Researcher at the
+                    <a href="https://www.grasp.upenn.edu/">University of Pennsylvania (GRASP)</a> advised by <a href="https://dair.seas.upenn.edu/posa/">Michael Posa</a> in the DAIR Lab. With funding from the <a href="https://theaiinstitute.com/">Boston Dynamic AI Institute</a>, I am developing active exploration and online learning algorithms for dexterous manipulation with sparse (e.g. tactile) perception.
                 </p>
                 <p>
                     In 2023, I completed my PhD in the <a href="https://personalrobotics.cs.washington.edu/">Personal Robotics Lab</a> at the University of Washington, where I was advised by <a href="https://goodrobot.ai/">Siddhartha Srinivasa</a> and collaborated with <a href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a>. My dissertation involved developing online learning algorithms for tractably adaptable food manipulation with the primary application of <a href="https://robotfeeding.io">robot-assisted feeding for those with mobility impairments</a>. Previously, I received my BSE from Princeton University, where I studied neuromorphic silicon photonics with <a href="https://prucnal.princeton.edu/">Paul Prucnal</a>.
                 </p>
                 <p>
-                    I have also had the pleasure to work on <a href="https://www.meta.com/blog/quest/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work/">varifocal VR headsets</a> at Meta (Oculus VR). In my spare time, I enjoy skiing, singing a cappella, and D&amp;D.
+                    I have also had the pleasure to work on <a href="https://www.meta.com/blog/quest/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work/">varifocal VR headsets</a> at Meta (Oculus VR). In my spare time, I enjoy skiing, singing <a href="https://www.rittenhousesound.org/">a cappella</a>, and D&amp;D.
                 </p>
             </div>
         </div>
@@ -66,7 +66,7 @@ layout: default
                 <tbody>
                     <tr>
                         <th>Apr 2024</th>
-                        <td>Starting at Michael Posa's DAIR Lab at UPenn!</td>
+                        <td>Started at Michael Posa's DAIR Lab at UPenn</td>
                     </tr>
                     <tr>
                         <th>Apr 2024</th>
@@ -78,7 +78,7 @@ layout: default
                     </tr>
                     <tr>
                         <th>Mar 2024</th>
-                        <td>Running the <a href="https://hripioneers.org">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
+                        <td>Running the <a href="https://hripioneers.org/archives/hri24/">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
                     </tr>
                     <tr>
                         <th>Dec 2023</th>
