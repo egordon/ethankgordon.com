@@ -6,12 +6,19 @@ layout: default
     <div class="inner">
         <h1>Ethan K. Gordon</h1>
         <div class="row uniform">
-            <div class="4u 6u(medium) 12u$(small)">
+            <div class="4u 6u(medium) 12u$(small)" style="text-align: center">
                 <span class="image fit"><img src="images/me.png" alt="Ethan Headshot" /></span>
+                <ul class="icons">
+                    <li><a href="{{ site.github_url }}"><span class="icon major fa-brands fa-github"></span><span class="label">GitHub</span></a></li>
+                    <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-brands fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
+                    <li><a href="{{ site.bsky_url }}"><span class="icon major icon-bsky"></span><span class="label">Bluesky</span></a></li>
+                    <!--<li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>-->
+                    <!--<li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>-->
+                </ul>
                 <ul class="actions vertical">
-                    <li><a href="/static/CV.pdf" class="button icon fa-save fit">CV</a></li>
-                    <li><a href="{{ site.scholar_url }}" class="button icon fa-google-scholar fit">Scholar</a></li>
-                    <li class="tooltip"><a class="button icon fa-envelope fit" onclick="copyEmail()" onmouseout="resetTooltip()"><span class="tooltiptext" id="myTooltip">Copy</span><span id="email">ethan@ethan<b>harvester obfuscation</b>kgordon.com</span></a></li>
+                    <li><a href="/static/CV.pdf" class="button icon fit"><span class="fa-solid fa-save"></span> CV</a></li>
+                    <li><a href="{{ site.scholar_url }}" class="button icon fit"><span class="fa-brands fa-google-scholar"></span> Scholar</a></li>
+                    <li class="tooltip"><a class="button icon fit" onclick="copyEmail()" onmouseout="resetTooltip()"><span class="tooltiptext" id="myTooltip">Copy</span><span class="fa-solid fa-envelope"></span> <span id="email">ethan@ethan<b>harvester obfuscation</b>kgordon.com</span></a></li>
                     <!-- See https://spencermortensen.com/articles/email-obfuscation/#text-display -->
                 </ul>
                 <!-- Copy Email Script -->
@@ -33,13 +40,6 @@ layout: default
                         tooltip.innerHTML = "Copy";
                     }
                 </script>
-                <ul class="icons">
-                    <li><a href="{{ site.github_url }}"><span class="icon major fa-github"></span><span class="label">GitHub</span></a></li>
-                    <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
-                    <li><a href="{{ site.bsky_url }}"><span class="icon major icon-bsky"></span><span class="label">Bluesky</span></a></li>
-                    <!--<li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>-->
-                    <!--<li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>-->
-                </ul>
             </div>
             <div class="8u$ 6u$(medium) 12u$(small)">
                 <p>
@@ -64,6 +64,10 @@ layout: default
         <div class="table-wrapper">
             <table>
                 <tbody>
+                    <tr>
+                        <th>Dec 2024</th>
+                        <td>Our <a href="/pubs/2025_03_hri.html">most recent paper</a> was accepted to HRI 2025!</td>
+                    </tr>
                     <tr>
                         <th>Apr 2024</th>
                         <td>Started at Michael Posa's DAIR Lab at UPenn</td>
@@ -100,10 +104,12 @@ layout: default
                         <th>Mar 2023</th>
                         <td>Awarded Best Design Paper at <a href="https://humanrobotinteraction.org/2023/awards/">HRI 2023</a>, Stockholm, SE</td>
                     </tr>
+                    <!--
                     <tr>
                         <th>Jan 2023</th>
                         <td>Accepted as an <a href="https://hripioneers.org/archives/hri23/participants/">HRI 2023 Pioneer</a>, Stockholm, SE</td>
                     </tr>
+                    -->
                 </tbody>
             </table>
         </div>
@@ -130,9 +136,9 @@ layout: default
                     {% if pub.award %}<br /><b>{{ pub.award }}</b> {% endif %}
                 </p>
                 <ul class="actions">
-                    {% if pub.pdf %}<li><a href="{{ pub.pdf }}" class="button icon fa-file-pdf">Paper</a></li>{% endif %}
-                    {% if pub.video %}<li><a href="{{ pub.video }}" class="button icon fa-video">Video</a></li>{% endif %}
-                    {% if pub.web %}<li><a href="{{ pub.web }}" class="button icon fa-link">Website</a></li>{% endif %}
+                    {% if pub.pdf %}<li><a href="{{ pub.pdf }}" class="button icon"><span class="fa-solid fa-file-pdf"></span> Paper</a></li>{% endif %}
+                    {% if pub.video %}<li><a href="{{ pub.video }}" class="button icon"><span class="fa-solid fa-video"></span> Video</a></li>{% endif %}
+                    {% if pub.web %}<li><a href="{{ pub.web }}" class="button icon"><span class="fa-solid fa-link"></span> Website</a></li>{% endif %}
                 </ul>
             </div>
             </div>
