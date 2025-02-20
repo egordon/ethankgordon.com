@@ -16,7 +16,7 @@ layout: default
                     <!--<li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>-->
                 </ul>
                 <ul class="actions vertical">
-                    <li><a href="/static/CV.pdf" class="button icon fit"><span class="fa-solid fa-save"></span> CV</a></li>
+                    <li><a target="_blank" href="https://drive.google.com/file/d/1AQ2LirSUaPQXDztQzP9NqYpJgjBNF_Y2/view?usp=drive_link" class="button icon fit"><span class="fa-solid fa-save"></span> CV</a></li>
                     <li><a href="{{ site.scholar_url }}" class="button icon fit"><span class="fa-brands fa-google-scholar"></span> Scholar</a></li>
                     <li class="tooltip"><a class="button icon fit" onclick="copyEmail()" onmouseout="resetTooltip()"><span class="tooltiptext" id="myTooltip">Copy</span><span class="fa-solid fa-envelope"></span> <span id="email">ethan@ethan<b>harvester obfuscation</b>kgordon.com</span></a></li>
                     <!-- See https://spencermortensen.com/articles/email-obfuscation/#text-display -->
