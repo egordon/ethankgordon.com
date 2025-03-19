@@ -65,8 +65,12 @@ layout: default
             <table>
                 <tbody>
                     <tr>
-                        <th>Dec 2024</th>
-                        <td>Our <a href="/pubs/2025_03_hri.html">most recent paper</a> was accepted to HRI 2025!</td>
+                        <th>June 2025</th>
+                        <td>The <a href="https://hrcm-workshop.github.io/">Workshop on Human-Robot Contact and Manipulation (HRCM)</a> was accepted into RSS 2025!</td>
+                    </tr>
+                    <tr>
+                        <th>Mar 2025</th>
+                        <td>Our <a href="/pubs/2025_03_hri.html">in-home feeding system paper</a> was nominated for Best Systems Paper at HRI 2025!</td>
                     </tr>
                     <tr>
                         <th>Apr 2024</th>
