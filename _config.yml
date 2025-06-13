@@ -14,11 +14,9 @@ description: A Postdoctoral Researcher working on Dexterous Manipulation and Ass
 
 # Social settings
 bsky_url: https://bsky.app/profile/ethankgordon.com
-facebook_url: https://facebook.com/ekgekg
 github_url: https://github.com/egordon
 linkedin_url: https://www.linkedin.com/in/ekgordon
 scholar_url: https://scholar.google.com/citations?user=hfmi3QwAAAAJ
-twitter_url: https://twitter.com/EKGRobots
 
 # Build settings
 markdown: kramdown
@@ -33,8 +31,6 @@ social:
   name: Ethan K. Gordon
   links:
     - https://github.com/egordon
-    - https://facebook.com/ekgekg
-    - https://twitter.com/EKGRobots
     - https://www.linkedin.com/in/ekgordon
 
 plugins:

@@ -12,8 +12,6 @@ layout: default
                     <li><a href="{{ site.github_url }}"><span class="icon major fa-brands fa-github"></span><span class="label">GitHub</span></a></li>
                     <li><a href="{{ site.linkedin_url }}"><span class="icon major fa-brands fa-linkedin"></span><span class="label">LinkedIn</span></a></li>
                     <li><a href="{{ site.bsky_url }}"><span class="icon major icon-bsky"></span><span class="label">Bluesky</span></a></li>
-                    <!--<li><a href="{{ site.facebook_url }}"><span class="icon major fa-facebook"></span><span class="label">Facebook</span></a></li>-->
-                    <!--<li><a href="{{ site.twitter_url }}"><span class="icon major fa-twitter"></span><span class="label">Twitter</span></a></li>-->
                 </ul>
                 <ul class="actions vertical">
                     <li><a target="_blank" href="https://drive.google.com/file/d/1AQ2LirSUaPQXDztQzP9NqYpJgjBNF_Y2/view?usp=drive_link" class="button icon fit"><span class="fa-solid fa-save"></span> CV</a></li>
@@ -74,11 +72,11 @@ layout: default
                     </tr>
                     <tr>
                         <th>Apr 2024</th>
-                        <td>Started at Michael Posa's DAIR Lab at UPenn</td>
+                        <td>Started at Michael Posa's <a href="https://dair.seas.upenn.edu/">DAIR Lab</a> at UPenn</td>
                     </tr>
                     <tr>
                         <th>Apr 2024</th>
-                        <td>Selected for the <a href="https://www.washington.edu/husky100/">2024 Husky 100!</a></td>
+                        <td>Selected for the <a href="https://www.washington.edu/husky100/year/2024/#name=ethan-gordon">2024 Husky 100!</a></td>
                     </tr>
                     <tr>
                         <th>Mar 2024</th>
@@ -124,7 +122,7 @@ layout: default
 <section id="pubs" class="wrapper style3 fade-up">
     <div class="inner">
         <h2>Research</h2>
-        <p>Robotic manipulation can advance the human condition in so many ways: from physical assistance for those with mobility impairments to construction tasks in dangerous environments to the fine grain motions of surgery. All of these tasks require the robot to adapt to previously-unseen and uncertain environments. Just as humans continuously build and refine our understanding of this world over time, a robot should be able to treat every second of deployment as a learning opportunity. My goal is to understand how to capitalize on these opportunities to make contact-rich dexterous manipulation as intuitive to robots as to people.</p>
+        <p>Robotic manipulation can advance the human condition in so many ways: from physical assistance for those with mobility impairments to construction tasks in dangerous environments to the fine grain motions of surgery. All of these tasks require the robot to adapt to previously-unseen and uncertain environments. Just as humans continuously build and refine our understanding of this world over time, a robot should be able to treat every second of deployment as a learning opportunity. My goal is to understand how to capitalize on these opportunities to make contact-rich dexterous manipulation as intuitive to robots as it is to humans.</p>
         <h3>Select Publications</h3>
         <hr />
         {% for pub in site.pubs reversed %}
