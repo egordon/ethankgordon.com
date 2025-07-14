@@ -58,13 +58,17 @@ layout: default
 <!-- One -->
 <section id="news" class="wrapper style2 spotlights">
     <div class="inner">
-        <h2>What's New?</h2>
+        <h2>What's "New"? (2 years)</h2>
         <div class="table-wrapper">
             <table>
                 <tbody>
                     <tr>
-                        <th>June 2025</th>
-                        <td>The <a href="https://hrcm-workshop.github.io/">Workshop on Human-Robot Contact and Manipulation (HRCM)</a> was accepted into RSS 2025!</td>
+                        <th>Jul 2025</th>
+                        <td>On parental leave to welcome <a href="images/lydian_web_public.jpg">Lydian</a> to the world!</td>
+                    </tr>
+                    <tr>
+                        <th>Jun 2025</th>
+                        <td>The <a href="https://hrcm-workshop.github.io/">Workshop on Human-Robot Contact and Manipulation (HRCM)</a> at RSS 2025 was a succcess!</td>
                     </tr>
                     <tr>
                         <th>Mar 2025</th>
@@ -102,11 +106,11 @@ layout: default
                         <th>Jun 2023</th>
                         <td>Awarded Best Poster at the <a href="https://sites.google.com/unisi.it/workshop-manipulation">Workshop on Assistive Manipulation</a> at ICRA 2023, London, UK</td>
                     </tr>
+                    <!--
                     <tr>
                         <th>Mar 2023</th>
                         <td>Awarded Best Design Paper at <a href="https://humanrobotinteraction.org/2023/awards/">HRI 2023</a>, Stockholm, SE</td>
                     </tr>
-                    <!--
                     <tr>
                         <th>Jan 2023</th>
                         <td>Accepted as an <a href="https://hripioneers.org/archives/hri23/participants/">HRI 2023 Pioneer</a>, Stockholm, SE</td>
