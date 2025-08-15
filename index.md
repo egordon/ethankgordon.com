@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- Intro -->
-<section id="intro" class="wrapper style1 fullscreen fade-up">
+<section id="intro" class="wrapper style1 fullscreen">
     <div class="inner">
         <h1>Ethan K. Gordon</h1>
         <div class="row uniform">
@@ -123,7 +123,7 @@ layout: default
 </section>
 
 <!-- Two -->
-<section id="pubs" class="wrapper style3 fade-up">
+<section id="pubs" class="wrapper style3">
     <div class="inner">
         <h2>Research</h2>
         <p>Robotic manipulation can advance the human condition in so many ways: from physical assistance for those with mobility impairments to construction tasks in dangerous environments to the fine grain motions of surgery. All of these tasks require the robot to adapt to previously-unseen and uncertain environments. Just as humans continuously build and refine our understanding of this world over time, a robot should be able to treat every second of deployment as a learning opportunity. My goal is to understand how to capitalize on these opportunities to make contact-rich dexterous manipulation as intuitive to robots as it is to humans.</p>

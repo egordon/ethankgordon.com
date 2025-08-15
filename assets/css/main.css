@@ -3917,7 +3917,7 @@
 	}
 
 		#intro p {
-			font-size: 1.1em;
+			font-size: 1.0em;
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3931,7 +3931,7 @@
 			@media screen and (max-width: 736px) {
 
 				#intro p {
-					font-size: 1em;
+					font-size: 0.9em;
 				}
 
 			}
