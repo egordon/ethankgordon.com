@@ -58,10 +58,14 @@ layout: default
 <!-- One -->
 <section id="news" class="wrapper style2 spotlights">
     <div class="inner">
-        <h2>What's "New"? (2 years)</h2>
+        <h2>What's "New"?</h2>
         <div class="table-wrapper">
             <table>
                 <tbody>
+                    <tr>
+                        <th>Oct 2025</th>
+                        <td>Rising Star at the <a href="https://nerc2025.cis.cornell.edu/">Northeast Robotics Colloquium (NERC)</a></td>
+                    </tr>
                     <tr>
                         <th>Jul 2025</th>
                         <td>On parental leave to welcome <a href="images/lydian_web_public.jpg">Lydian</a> to the world!</td>
@@ -102,11 +106,11 @@ layout: default
                         <th>Nov 2023</th>
                         <td>The Assistive Dexterous Arm (ADA) Feeding Demo is awarded the People's Choice Prize at UW Demo Day</td>
                     </tr>
+                    <!--
                     <tr>
                         <th>Jun 2023</th>
                         <td>Awarded Best Poster at the <a href="https://sites.google.com/unisi.it/workshop-manipulation">Workshop on Assistive Manipulation</a> at ICRA 2023, London, UK</td>
                     </tr>
-                    <!--
                     <tr>
                         <th>Mar 2023</th>
                         <td>Awarded Best Design Paper at <a href="https://humanrobotinteraction.org/2023/awards/">HRI 2023</a>, Stockholm, SE</td>
