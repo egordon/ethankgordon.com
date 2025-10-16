@@ -1637,7 +1637,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.55);
+		color: rgba(255, 255, 255, 0.88);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -1921,7 +1921,7 @@
 		letter-spacing: 0.25em;
 		line-height: 4.75em;
 		outline: 0;
-		padding: 0 3.75em;
+		padding: 0 2.0em;
 		position: relative;
 		text-align: center;
 		text-decoration: none;
@@ -2030,7 +2030,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(255, 255, 255, 0.55) !important;
+			border-color: rgba(255, 255, 255, 0.88) !important;
 		}
 
 			input[type="submit"]:hover:after,
@@ -2463,7 +2463,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: rgba(255, 255, 255, 0.55);
+			color: rgba(255, 255, 255, 0.88);
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -3456,7 +3456,7 @@
 					}
 
 						#header > nav > ul > li a:hover {
-							color: rgba(255, 255, 255, 0.55);
+							color: rgba(255, 255, 255, 0.88);
 						}
 
 						#header > nav > ul > li a.active {
@@ -3815,7 +3815,7 @@
 			}
 
 			#sidebar nav a:hover {
-				color: rgba(255, 255, 255, 0.55);
+				color: rgba(255, 255, 255, 0.88);
 			}
 
 			#sidebar nav a.active {
