@@ -4,9 +4,17 @@ layout: default
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen">
     <div class="inner">
-        <h1>Ethan K. Gordon</h1>
         <div class="row uniform">
-            <div class="4u 6u(medium) 12u$(small)" style="text-align: center">
+            <div class="6u 6u(medium) 12u(small)">
+                <h2>Ethan K. Gordon</h2>
+            </div>
+            <div class="6u 6u(medium) 12u(small)">
+                <span class="box alt">I am on the faculty market! <span class="icon fa-solid fa-chalkboard-user"></span>
+                </span>
+            </div>
+        </div>
+        <div class="row uniform">
+            <div class="4u 6u(medium) 12u(small)" style="text-align: center">
                 <span class="image fit"><img src="images/me.png" alt="Ethan Headshot" /></span>
                 <ul class="icons">
                     <li><a href="{{ site.github_url }}"><span class="icon major fa-brands fa-github"></span><span class="label">GitHub</span></a></li>
@@ -39,7 +47,7 @@ layout: default
                     }
                 </script>
             </div>
-            <div class="8u$ 6u$(medium) 12u$(small)">
+            <div class="8u$ 6u(medium) 12u(small)">
                 <p>
                     I am a Postdoctoral Researcher at the
                     <a href="https://www.grasp.upenn.edu/">University of Pennsylvania (GRASP)</a> supervised by <a href="https://dair.seas.upenn.edu/posa/">Michael Posa</a> in the DAIR Lab. With funding from the <a href="https://rai-inst.com/">Robotics and AI (RAI) Institute</a>, I am developing active exploration and online learning algorithms for dexterous manipulation with sparse (e.g. tactile) perception.
