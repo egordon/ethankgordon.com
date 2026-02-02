@@ -71,6 +71,10 @@ layout: default
             <table>
                 <tbody>
                     <tr>
+                        <th>Feb 2026</th>
+                        <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploraiton work</a> was accepted into ICRA 2026, see you in Vienna!</td>
+                    </tr>
+                    <tr>
                         <th>Oct 2025</th>
                         <td>Rising Star at the <a href="https://nerc2025.cis.cornell.edu/">Northeast Robotics Colloquium (NERC)</a></td>
                     </tr>
@@ -102,6 +106,7 @@ layout: default
                         <th>Mar 2024</th>
                         <td>Running the <a href="https://hripioneers.org/archives/hri24/">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
                     </tr>
+                    <!--
                     <tr>
                         <th>Dec 2023</th>
                         <td>Defended my dissertation and received my PhD from UW!</td>
@@ -114,7 +119,6 @@ layout: default
                         <th>Nov 2023</th>
                         <td>The Assistive Dexterous Arm (ADA) Feeding Demo is awarded the People's Choice Prize at UW Demo Day</td>
                     </tr>
-                    <!--
                     <tr>
                         <th>Jun 2023</th>
                         <td>Awarded Best Poster at the <a href="https://sites.google.com/unisi.it/workshop-manipulation">Workshop on Assistive Manipulation</a> at ICRA 2023, London, UK</td>
