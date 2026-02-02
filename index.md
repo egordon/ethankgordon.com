@@ -72,7 +72,7 @@ layout: default
                 <tbody>
                     <tr>
                         <th>Feb 2026</th>
-                        <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploraiton work</a> was accepted into ICRA 2026, see you in Vienna!</td>
+                        <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> was accepted into ICRA 2026, see you in Vienna!</td>
                     </tr>
                     <tr>
                         <th>Oct 2025</th>
