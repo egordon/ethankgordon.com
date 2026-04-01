@@ -80,7 +80,7 @@ layout: default
                     </tr>
                     <tr>
                         <th>Jul 2025</th>
-                        <td>On parental leave to welcome <a href="images/lydian_web_public.jpg">Lydian</a> to the world!</td>
+                        <td>On parental leave to welcome <a href="images/no_robots/lydian_web_public.jpg">Lydian</a> to the world!</td>
                     </tr>
                     <tr>
                         <th>Jun 2025</th>
