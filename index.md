@@ -66,10 +66,18 @@ layout: default
 <!-- One -->
 <section id="news" class="wrapper style2 spotlights">
     <div class="inner">
-        <h2>What's "New"?</h2>
+        <h2>What's New?</h2>
         <div class="table-wrapper">
             <table>
                 <tbody>
+                    <tr>
+                        <th>Jul 2026</th>
+                        <td>Accepted as a 2026 <a href="https://hripioneers.org/archives/hri23/participants/">RSS Pioneer</a>, see you in Sydney!</td>
+                    </tr>
+                    <tr>
+                        <th>May 2026</th>
+                        <td>I'll be presenting at the <a href="https://m3xmeeting.org/">M3X PI Meeting</a>.</td>
+                    </tr>
                     <tr>
                         <th>Feb 2026</th>
                         <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> was accepted into ICRA 2026, see you in Vienna!</td>
@@ -90,6 +98,7 @@ layout: default
                         <th>Mar 2025</th>
                         <td>Our <a href="/pubs/2025_03_hri.html">in-home feeding system paper</a> was nominated for Best Systems Paper at HRI 2025!</td>
                     </tr>
+                    <!--
                     <tr>
                         <th>Apr 2024</th>
                         <td>Started at Michael Posa's <a href="https://dair.seas.upenn.edu/">DAIR Lab</a> at UPenn</td>
@@ -106,7 +115,6 @@ layout: default
                         <th>Mar 2024</th>
                         <td>Running the <a href="https://hripioneers.org/archives/hri24/">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
                     </tr>
-                    <!--
                     <tr>
                         <th>Dec 2023</th>
                         <td>Defended my dissertation and received my PhD from UW!</td>
