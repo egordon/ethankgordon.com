@@ -75,12 +75,12 @@ layout: default
                         <td>Accepted as a 2026 <a href="https://hripioneers.org/archives/hri23/participants/">RSS Pioneer</a>, see you in Sydney!</td>
                     </tr>
                     <tr>
-                        <th>May 2026</th>
-                        <td>I'll be presenting at the <a href="https://m3xmeeting.org/">M3X PI Meeting</a>.</td>
+                        <th>Jun 2026</th>
+                        <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> is presenting at ICRA 2026, see you in Vienna!</td>
                     </tr>
                     <tr>
-                        <th>Feb 2026</th>
-                        <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> was accepted into ICRA 2026, see you in Vienna!</td>
+                        <th>May 2026</th>
+                        <td>Presented at the <a href="https://m3xmeeting.org/">M3X PI Meeting</a>.</td>
                     </tr>
                     <tr>
                         <th>Oct 2025</th>
