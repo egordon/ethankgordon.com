@@ -76,6 +76,10 @@ layout: default
                     </tr>
                     <tr>
                         <th>Jun 2026</th>
+                        <td>Excited to attend the <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26271">Dagstuhl Seminar: "Towards Physically Assistive Robots in the Home"</a></td>
+                    </tr>
+                    <tr>
+                        <th>Jun 2026</th>
                         <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> is presenting at ICRA 2026, see you in Vienna!</td>
                     </tr>
                     <tr>
