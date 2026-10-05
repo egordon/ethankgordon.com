@@ -48,105 +48,109 @@ layout: default
                 </script>
             </div>
             <div class="8u$ 6u(medium) 12u(small)">
-                <p>
-                    I am a Postdoctoral Researcher at the
-                    <a href="https://www.grasp.upenn.edu/">University of Pennsylvania (GRASP)</a> supervised by <a href="https://dair.seas.upenn.edu/posa/">Michael Posa</a> in the DAIR Lab. With funding from the <a href="https://rai-inst.com/">Robotics and AI (RAI) Institute</a>, I am developing active exploration and online learning algorithms for dexterous manipulation with sparse (e.g. tactile) perception.
-                </p>
-                <p>
-                    In 2023, I completed my PhD in the <a href="https://personalrobotics.cs.washington.edu/">Personal Robotics Lab</a> at the University of Washington, where I was advised by <a href="https://goodrobot.ai/">Siddhartha Srinivasa</a> and collaborated with <a href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a>. My dissertation involved developing online learning algorithms for tractably adaptable food manipulation with the primary application of <a href="https://robotfeeding.io">robot-assisted feeding for those with mobility impairments</a>. Previously, I received my BSE from Princeton University, where I studied neuromorphic silicon photonics with <a href="https://prucnal.princeton.edu/">Paul Prucnal</a>.
-                </p>
-                <p>
-                    I have also had the pleasure to work with the <a href="https://usa.honda-ri.com/w/rss2023-grasp-planning">Honda Research Institute on in-hand manipulation</a> and Meta (Oculus VR) on <a href="https://www.meta.com/blog/quest/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work/">varifocal VR headsets</a>. In my spare time, I enjoy skiing, singing <a href="https://www.rittenhousesound.org/">a cappella</a>, and D&amp;D.
-                </p>
+                <h3>What's New?</h3>
+                <div class="table-wrapper">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th>Oct '26</th>
+                                <td>Started at the <a href="http://emprise.cs.cornell.edu/">EmPRISE Lab</a></td>
+                            </tr>
+                            <tr>
+                                <th>Jul '26</th>
+                                <td>Accepted as a 2026 <a href="https://hripioneers.org/archives/hri23/participants/">RSS Pioneer</a>, see you in Sydney!</td>
+                            </tr>
+                            <tr>
+                                <th>Jun '26</th>
+                                <td>Excited to attend the <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26271">Dagstuhl Seminar: "Towards Physically Assistive Robots in the Home"</a></td>
+                            </tr>
+                            <tr>
+                                <th>Jun '26</th>
+                                <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> is presenting at ICRA 2026, see you in Vienna!</td>
+                            </tr>
+                            <tr>
+                                <th>May '26</th>
+                                <td>Presented at the <a href="https://m3xmeeting.org/">M3X PI Meeting</a>.</td>
+                            </tr>
+                            <tr>
+                                <th>Oct '25</th>
+                                <td>Rising Star at the <a href="https://nerc2025.cis.cornell.edu/">Northeast Robotics Colloquium (NERC)</a></td>
+                            </tr>
+                            <tr>
+                                <th>Jul '25</th>
+                                <td>On parental leave to welcome <a href="images/no_robots/lydian_web_public.jpg">Lydian</a> to the world!</td>
+                            </tr>
+                            <tr>
+                                <th>Jun '25</th>
+                                <td>The <a href="https://hrcm-workshop.github.io/">Workshop on Human-Robot Contact and Manipulation (HRCM)</a> at RSS 2025 was a succcess!</td>
+                            </tr>
+                            <!-- What's Old?
+                            <tr>
+                                <th>Mar '25</th>
+                                <td>Our <a href="/pubs/2025_03_hri.html">in-home feeding system paper</a> was nominated for Best Systems Paper at HRI 2025!</td>
+                            </tr>
+                            <tr>
+                                <th>Apr '24</th>
+                                <td>Started at Michael Posa's <a href="https://dair.seas.upenn.edu/">DAIR Lab</a> at UPenn</td>
+                            </tr>
+                            <tr>
+                                <th>Apr '24</th>
+                                <td>Selected for the <a href="https://www.washington.edu/husky100/year/2024/#name=ethan-gordon">2024 Husky 100!</a></td>
+                            </tr>
+                            <tr>
+                                <th>Mar '24</th>
+                                <td><a href="https://programs.sigchi.org/hri/2024/awards/best-demos">Best Demonstration Award</a> at HRI 2024, Boulder, CO </td>
+                            </tr>
+                            <tr>
+                                <th>Mar '24</th>
+                                <td>Running the <a href="https://hripioneers.org/archives/hri24/">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
+                            </tr>
+                            <tr>
+                                <th>Dec '23</th>
+                                <td>Defended my dissertation and received my PhD from UW!</td>
+                            </tr>
+                            <tr>
+                                <th>Nov '23</th>
+                                <td>Presented at CoRL 2023, Atlanta, GA</td>
+                            </tr>
+                            <tr>
+                                <th>Nov '23</th>
+                                <td>The Assistive Dexterous Arm (ADA) Feeding Demo is awarded the People's Choice Prize at UW Demo Day</td>
+                            </tr>
+                            <tr>
+                                <th>Jun '23</th>
+                                <td>Awarded Best Poster at the <a href="https://sites.google.com/unisi.it/workshop-manipulation">Workshop on Assistive Manipulation</a> at ICRA 2023, London, UK</td>
+                            </tr>
+                            <tr>
+                                <th>Mar '23</th>
+                                <td>Awarded Best Design Paper at <a href="https://humanrobotinteraction.org/2023/awards/">HRI 2023</a>, Stockholm, SE</td>
+                            </tr>
+                            <tr>
+                                <th>Jan '23</th>
+                                <td>Accepted as an <a href="https://hripioneers.org/archives/hri23/participants/">HRI 2023 Pioneer</a>, Stockholm, SE</td>
+                            </tr>
+                            -->
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
 <!-- One -->
-<section id="news" class="wrapper style2 spotlights">
+<section id="about" class="wrapper style2 spotlights">
     <div class="inner">
-        <h2>What's New?</h2>
-        <div class="table-wrapper">
-            <table>
-                <tbody>
-                    <tr>
-                        <th>Jul 2026</th>
-                        <td>Accepted as a 2026 <a href="https://hripioneers.org/archives/hri23/participants/">RSS Pioneer</a>, see you in Sydney!</td>
-                    </tr>
-                    <tr>
-                        <th>Jun 2026</th>
-                        <td>Excited to attend the <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26271">Dagstuhl Seminar: "Towards Physically Assistive Robots in the Home"</a></td>
-                    </tr>
-                    <tr>
-                        <th>Jun 2026</th>
-                        <td>Our <a href="/pubs/2026_06_icra.html">active tactile exploration work</a> is presenting at ICRA 2026, see you in Vienna!</td>
-                    </tr>
-                    <tr>
-                        <th>May 2026</th>
-                        <td>Presented at the <a href="https://m3xmeeting.org/">M3X PI Meeting</a>.</td>
-                    </tr>
-                    <tr>
-                        <th>Oct 2025</th>
-                        <td>Rising Star at the <a href="https://nerc2025.cis.cornell.edu/">Northeast Robotics Colloquium (NERC)</a></td>
-                    </tr>
-                    <tr>
-                        <th>Jul 2025</th>
-                        <td>On parental leave to welcome <a href="images/no_robots/lydian_web_public.jpg">Lydian</a> to the world!</td>
-                    </tr>
-                    <tr>
-                        <th>Jun 2025</th>
-                        <td>The <a href="https://hrcm-workshop.github.io/">Workshop on Human-Robot Contact and Manipulation (HRCM)</a> at RSS 2025 was a succcess!</td>
-                    </tr>
-                    <tr>
-                        <th>Mar 2025</th>
-                        <td>Our <a href="/pubs/2025_03_hri.html">in-home feeding system paper</a> was nominated for Best Systems Paper at HRI 2025!</td>
-                    </tr>
-                    <!--
-                    <tr>
-                        <th>Apr 2024</th>
-                        <td>Started at Michael Posa's <a href="https://dair.seas.upenn.edu/">DAIR Lab</a> at UPenn</td>
-                    </tr>
-                    <tr>
-                        <th>Apr 2024</th>
-                        <td>Selected for the <a href="https://www.washington.edu/husky100/year/2024/#name=ethan-gordon">2024 Husky 100!</a></td>
-                    </tr>
-                    <tr>
-                        <th>Mar 2024</th>
-                        <td><a href="https://programs.sigchi.org/hri/2024/awards/best-demos">Best Demonstration Award</a> at HRI 2024, Boulder, CO </td>
-                    </tr>
-                    <tr>
-                        <th>Mar 2024</th>
-                        <td>Running the <a href="https://hripioneers.org/archives/hri24/">HRI Pioneers Workshop</a> at HRI 2024, Boulder, CO </td>
-                    </tr>
-                    <tr>
-                        <th>Dec 2023</th>
-                        <td>Defended my dissertation and received my PhD from UW!</td>
-                    </tr>
-                    <tr>
-                        <th>Nov 2023</th>
-                        <td>Presented at CoRL 2023, Atlanta, GA</td>
-                    </tr>
-                    <tr>
-                        <th>Nov 2023</th>
-                        <td>The Assistive Dexterous Arm (ADA) Feeding Demo is awarded the People's Choice Prize at UW Demo Day</td>
-                    </tr>
-                    <tr>
-                        <th>Jun 2023</th>
-                        <td>Awarded Best Poster at the <a href="https://sites.google.com/unisi.it/workshop-manipulation">Workshop on Assistive Manipulation</a> at ICRA 2023, London, UK</td>
-                    </tr>
-                    <tr>
-                        <th>Mar 2023</th>
-                        <td>Awarded Best Design Paper at <a href="https://humanrobotinteraction.org/2023/awards/">HRI 2023</a>, Stockholm, SE</td>
-                    </tr>
-                    <tr>
-                        <th>Jan 2023</th>
-                        <td>Accepted as an <a href="https://hripioneers.org/archives/hri23/participants/">HRI 2023 Pioneer</a>, Stockholm, SE</td>
-                    </tr>
-                    -->
-                </tbody>
-            </table>
-        </div>
+        <h2>Bio</h2>
+        <p>
+            I am a Postdoc at Cornell University's <a href="http://emprise.cs.cornell.edu/">EmPRISE Lab</a> with <a href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a>. My primary research interest is the <b>development of multimodal (vision and haptic) active learning algorithms for physically assistive robotics.</b>
+        </p>
+        <p>
+            From 2024-2026, I worked at the University of Pennsylvania's <a href="https://dair.engineering.upenn.edu/">DAIR Lab</a> with <a href="https://dair.seas.upenn.edu/posa/">Michael Posa</a>. In 2023, I completed my PhD in the <a href="https://personalrobotics.cs.washington.edu/">Personal Robotics Lab</a> at the University of Washington, where I was advised by <a href="https://goodrobot.ai/">Siddhartha Srinivasa</a>. My dissertation involved developing online learning algorithms for tractably adaptable food manipulation with the primary application of <a href="https://robotfeeding.io">robot-assisted feeding for those with mobility impairments</a>. Previously, I received my BSE from Princeton University, where I studied neuromorphic silicon photonics with <a href="https://prucnal.princeton.edu/">Paul Prucnal</a>.
+        </p>
+        <p>
+            I have also had the pleasure to work with the <a href="https://usa.honda-ri.com/w/rss2023-grasp-planning">Honda Research Institute on in-hand manipulation</a> and Meta (Oculus VR) on <a href="https://www.meta.com/blog/quest/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work/">varifocal VR headsets</a>. In my spare time, I enjoy skiing, singing <a href="https://www.rittenhousesound.org/">a cappella</a>, and D&amp;D.
+        </p>
     </div>
 </section>
 
